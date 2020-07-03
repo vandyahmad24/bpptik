@@ -3,4 +3,4 @@
 Sertifikasi dari BPPTIK
 
 ## Free Code For Anything & Anyone
-
+Noted :  Saya share hasil code saya untuk belajar bersama jgn digunakan untuk copypaster dan submit tugas. 
